@@ -1,5 +1,5 @@
-# IP-2
-This is a project about a Ghanaian travel application that outputs the user's Akan Name for a better experience.
+Project Name: Tivara Tours
+This is a project about a Ghanaian travel website that outputs the user's Akan Name for a better experience and to be part of the culture.
 
 Author: Edwin Aringo
       : tedaringo628@gmail.com
